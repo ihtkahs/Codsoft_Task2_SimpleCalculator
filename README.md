@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository includes a simple Calculator. It aims to demonstrate different aspects of Python programming, from GUI development to algorithm implementation.
+This repository includes a simple Calculator. It aims to demonstrate different aspect of algorithm implementation in Python programming.
 
 ### Calculator
 
